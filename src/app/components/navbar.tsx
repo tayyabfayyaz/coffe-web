@@ -1,5 +1,4 @@
 import Link from "next/link";
-import { faCoffee } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUser, faMagnifyingGlass } from '@fortawesome/free-solid-svg-icons';
 import React from "react";
